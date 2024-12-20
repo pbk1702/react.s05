@@ -5,7 +5,5 @@
 
 # прочее
 /img/**
-!/img
 /upload/**
-!/upload
 /.git
