@@ -1,0 +1,9 @@
+.CartItem {
+    /* width: 250px;  */
+    /* height: 400px; */
+    box-shadow: 0 0 5px 5px #dfdfdf;    
+    & img {
+        width: 100%;
+        height: auto;
+    }
+}

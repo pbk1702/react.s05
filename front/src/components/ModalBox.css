@@ -1,0 +1,20 @@
+.ModalBox {
+    width: 25rem; 
+    min-height: 10rem;
+    border-radius: 0.625rem;
+    position: fixed;
+    left: min(50svw, 50%);
+    top: min(50svh, 50%);
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+}
+
+.ModalBg {    
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 0.3;
+    background-color: #333;
+}
